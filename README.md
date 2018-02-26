@@ -5,7 +5,7 @@ Vibration Apps for Android
 Randomly vibrate your smart phone by using slide bar.
 
 # Licence
-CopyRight (c) 2018 Shuto Kawabata and Uchida
+CopyRight (c) 2018 Shuto Kawabata and Masayuki Uchida
 
 Released under the MIT licence
 
