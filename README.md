@@ -12,6 +12,8 @@ Randomly vibrate your smart phone by using slide bar.
 # Licence
 CopyRight (c) 2018 Shuto Kawabata and Masayuki Uchida
 
+University of Tsukuba
+
 Released under the MIT licence
 
 https://opensource.org/licenses/MIT
